@@ -5,7 +5,7 @@
 ---
 
 1. npm i -g yarn
-2. npn i -g cli
+2. npm i -g cli
 3. npx create-expo-app munzi
 4. npm start
 5. QR코드 터미널 출력
